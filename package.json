@@ -1,0 +1,19 @@
+{
+  "name": "wecom-department",
+  "version": "1.0.0",
+  "description": "企业微信API-通讯录-部门管理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynu/wecom-department.git"
+  },
+  "author": "na57",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ynu/wecom-department/issues"
+  },
+  "homepage": "https://github.com/ynu/wecom-department#readme"
+}
