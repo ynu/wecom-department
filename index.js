@@ -5,8 +5,8 @@
  */
 
  const fetch = require('node-fetch');
- const debug = require('debug')('ynu-libs:wecom-api-dept:debug');
- const warn = require('debug')('ynu-libs:wecom-api-dept:warn');
+ const debug = require('debug')('wecom-department:debug');
+ const warn = require('debug')('wecom-department:warn');
  const { getToken, qyHost } = require('wecom-common');
  
  

@@ -1,6 +1,6 @@
 {
   "name": "wecom-department",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "企业微信API-通讯录-部门管理",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ynu/wecom-department/issues"
   },
-  "homepage": "https://github.com/ynu/wecom-department#readme"
+  "homepage": "https://github.com/ynu/wecom-department#readme",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "node-fetch": "^2.6.7",
+    "wecom-common": "^1.1.0"
+  }
 }
